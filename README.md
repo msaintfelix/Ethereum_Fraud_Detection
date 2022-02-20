@@ -1,5 +1,5 @@
 # Ethereum_Fraud_Detection
-Anomaly Detection System with Ethereum Data
+Anomaly Detection System with Ethereum Data.
 
 This is a copy of my work-in-progress for the following Kaggle dataset:
 https://www.kaggle.com/vagifa/ethereum-frauddetection-dataset
