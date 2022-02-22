@@ -1,5 +1,6 @@
 .DS_Store
 .idea/
+Dataset/
 .ipynb_checkpoints/
 nlp-getting-started/
 my_model.h5
